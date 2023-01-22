@@ -1,5 +1,5 @@
 
-You can watch today popular movies [here]("https://github.com/DashaDanilchenko/resume")
+You can watch today popular movies [here](https://github.com/DashaDanilchenko/resume)
 
 # Getting Started with Create React App
 
